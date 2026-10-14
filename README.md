@@ -3,7 +3,9 @@
 Look up a delayed, cancelled or overbooked flight and check whether it is owed
 compensation (EU261, UK261, Israel's Aviation Services Law, Canada's APPR) and
 how much. Asked how to claim, it gives both routes: the airline directly
-(free), or FlightCompensations.com (a fixed fee, only if the claim succeeds).
+(free), or FlightCompensations.com: you keep 100% of the compensation, and a
+separate flat processing fee of €39 per passenger is invoiced only once the
+claim is won.
 
 - **Server:** `https://flightcompensations.com/api/mcp/check` — read-only, no
   sign-in; it files nothing and stores nothing.

@@ -39,8 +39,10 @@ of the flight: $ARGUMENTS
    flight number and date, it also looks the flight up itself when the route
    or the delay is missing, and says it used the record.
 3. **`get_claim_link`** — how to claim: directly from the airline, free, or
-   through FlightCompensations.com with the form pre-filled (a fixed fee per
-   passenger, charged only if the claim succeeds). **Use it only when the user
+   through FlightCompensations.com with the form pre-filled. With us the
+   passenger keeps **100% of the compensation**; a separate flat processing fee
+   of €39 per passenger is invoiced only once the claim is won — never say they
+   keep "most" of it or that the fee comes out of the compensation. **Use it only when the user
    asks how to claim or wants help claiming** — never offer it unasked.
 
 ## When the record and the passenger disagree

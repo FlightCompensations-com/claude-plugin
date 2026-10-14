@@ -27,7 +27,7 @@ The server appears on the plugin's Connectors tab.
 
 ## Try
 
-- "My Lufthansa flight from Frankfurt to New York on 14 August landed 5 hours late. Am I owed anything?"
+- "My Lufthansa flight from Frankfurt to New York landed 5 hours late. Am I owed anything?"
 - "easyJet cancelled my Gatwick to Faro flight two days before. What can I claim?"
 - "I was bumped off an overbooked El Al flight from Tel Aviv to London. How much?"
 

@@ -48,11 +48,14 @@ of the flight: $ARGUMENTS
 - The record is the flight's own leg. A delay counts at the passenger's
   **final destination**: with a connection after this flight, ask about the
   arrival at the end of the trip before relying on the leg's delay.
-- If the record shows the flight on time (or under three hours late) but the
-  passenger says it was much later, say so politely and ask them to check the
-  **date**: an overnight delay often leaves on the next day, and the record
-  for the original date is then a different, on-time flight. Look up the
-  date they confirm.
+- A record that shows the flight on time or under three hours late is **not a
+  no**. It describes one flight on one date. Before any negative answer, ask
+  the `openQuestions` the tools return, one at a time: the **date** on their
+  booking (an overnight delay leaves on the next day; the tools also check the
+  day before), a **connection** on the same booking, whether they were **moved
+  to another flight**, cancelled or refused boarding, whether the **time or
+  airport changed** before they flew, and — a few minutes short of three
+  hours — **when the doors opened**. Use what they say.
 - If the record shows the flight cancelled, ask how much notice the airline
   gave.
 

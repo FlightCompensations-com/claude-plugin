@@ -74,18 +74,23 @@ of the flight: $ARGUMENTS
 
 ## How to show the result
 
-- Report the verdict, the estimate and the explanation as the tool gives them.
-  Quote its amount and currency; do not substitute your own.
+- **Keep it short.** Two or three sentences: the verdict and the amount per
+  passenger (and the total for several), then at most one caveat that applies
+  to this passenger. Do not walk through the scheduled and actual times, the
+  distance bands or the regulation unless they ask. Quote the tool's amount and
+  currency; do not substitute your own.
 - It is a **preliminary** check: the airline's records and the passenger's
   documents decide the final answer. Never say a claim is certain or that
   money is guaranteed.
-- When the verdict depends on the airline's reason (weather, air-traffic
-  control, a strike by third parties, security), say that the airline must
-  prove such "extraordinary circumstances" — do not decide it.
-- Stop there. Do not add a call to action or a link. If the user then asks how
+- Mention "extraordinary circumstances" (weather, air-traffic control, a strike
+  by third parties) only when the passenger says the airline gave such a
+  reason, or asks — and then say the airline must prove it; do not decide it.
+- Stop there. Do not add a call to action, an offer to claim, or a link. If the user then asks how
   to claim or wants help, call `get_claim_link` and give both routes it
   returns, as it states them — including that claiming from the airline
-  directly is free.
+  directly is free. Ours is a flat **processing fee**, invoiced separately
+  once the claim is won; never word it as a fee taken "if the claim wins" out
+  of the compensation.
 - Nothing is filed in the chat. Never tell the user a claim has been
   submitted.
 

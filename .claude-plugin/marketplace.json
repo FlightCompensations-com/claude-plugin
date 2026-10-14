@@ -12,7 +12,7 @@
       "displayName": "FlightCompensations.com",
       "source": "./plugins/flight-compensations",
       "description": "Look up a delayed, cancelled or overbooked flight and check whether it is owed compensation (EU261, UK261, Israel, Canada) and how much.",
-      "version": "1.3.1",
+      "version": "1.3.2",
       "category": "travel",
       "tags": [
         "flight compensation",

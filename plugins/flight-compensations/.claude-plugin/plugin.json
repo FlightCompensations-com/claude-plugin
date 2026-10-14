@@ -1,7 +1,7 @@
 {
   "name": "flight-compensations",
   "displayName": "FlightCompensations.com",
-  "version": "1.3.2",
+  "version": "1.3.3",
   "description": "Look up a disrupted flight and check whether it is owed compensation under EU261, UK261, Israel's Aviation Services Law or Canada's APPR, and how much. Read-only: it files nothing and stores nothing.",
   "author": {
     "name": "The Upgrade Concierge LLC",
